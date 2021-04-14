@@ -12,6 +12,9 @@
 ### 4. Admin Page
 <img src="https://github.com/Aman2221/WHATSAPP-MERN/blob/main/img/Admin_Page.png" alt="preview" />
 
+### 5. MongoDB Page
+<img src="https://github.com/Aman2221/WHATSAPP-MERN/blob/main/img/MongoDB.png" alt="preview" />
+
 
 ## Tecnologies:
 
